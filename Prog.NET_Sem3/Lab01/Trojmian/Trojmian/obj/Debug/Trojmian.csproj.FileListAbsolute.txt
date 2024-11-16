@@ -1,0 +1,8 @@
+F:\Users\bartlomiej.malina\Desktop\.NET\Trojmian\Trojmian\bin\Debug\Trojmian.exe.config
+F:\Users\bartlomiej.malina\Desktop\.NET\Trojmian\Trojmian\bin\Debug\Trojmian.exe
+F:\Users\bartlomiej.malina\Desktop\.NET\Trojmian\Trojmian\bin\Debug\Trojmian.pdb
+F:\Users\bartlomiej.malina\Desktop\.NET\Trojmian\Trojmian\obj\Debug\Trojmian.csproj.SuggestedBindingRedirects.cache
+F:\Users\bartlomiej.malina\Desktop\.NET\Trojmian\Trojmian\obj\Debug\Trojmian.csproj.CoreCompileInputs.cache
+F:\Users\bartlomiej.malina\Desktop\.NET\Trojmian\Trojmian\obj\Debug\Trojmian.exe
+F:\Users\bartlomiej.malina\Desktop\.NET\Trojmian\Trojmian\obj\Debug\Trojmian.pdb
+F:\Users\bartlomiej.malina\Desktop\.NET\Trojmian\Trojmian\obj\Debug\Trojmian.csproj.AssemblyReference.cache

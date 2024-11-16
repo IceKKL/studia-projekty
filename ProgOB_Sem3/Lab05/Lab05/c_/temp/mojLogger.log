@@ -1,0 +1,10 @@
+paź 29, 2024 10:22:58 AM edu.lab05.Main main
+INFO: Error code: 10002. Message: Błędny nagłówek pliku /Users/imob10/Desktop/Students/Malina_Bartlomiej/Lab05/src/resource/file-bad-header.dat
+paź 29, 2024 10:23:49 AM edu.lab05.Main main
+INFO: Error code: 10004, parameter name: INT, Message: Wartość powyżej max. (99)
+paź 29, 2024 10:23:55 AM edu.lab05.Main main
+INFO: Error code: 10001. Message: Brak pliku danych: /Users/imob10/Desktop/Students/Malina_Bartlomiej/Lab05/src/resource/null.dat
+paź 29, 2024 10:24:01 AM edu.lab05.Main main
+INFO: Error code: 10002. Message: Błędna stopka pliku /Users/imob10/Desktop/Students/Malina_Bartlomiej/Lab05/src/resource/file-bad-footer.dat
+paź 29, 2024 10:24:07 AM edu.lab05.Main main
+INFO: Error code: 10004, parameter name: DOUBLE, Message: Wartość powyżej max. (4.45)

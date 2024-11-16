@@ -1,0 +1,11 @@
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\bin\Debug\Trojmian.exe.config
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\bin\Debug\Trojmian.exe
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\bin\Debug\Trojmian.pdb
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\obj\Debug\Trojmian.csproj.AssemblyReference.cache
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\obj\Debug\Trojmian.csproj.SuggestedBindingRedirects.cache
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\obj\Debug\Trojmian.wndOkno.resources
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\obj\Debug\Trojmian.Properties.Resources.resources
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\obj\Debug\Trojmian.csproj.GenerateResource.cache
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\obj\Debug\Trojmian.csproj.CoreCompileInputs.cache
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\obj\Debug\Trojmian.exe
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab02\Trojmian\Trojmian\obj\Debug\Trojmian.pdb

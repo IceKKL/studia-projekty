@@ -1,0 +1,11 @@
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\bin\Debug\Lab04.exe.config
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\bin\Debug\Lab04.exe
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\bin\Debug\Lab04.pdb
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\obj\Debug\Lab04.csproj.SuggestedBindingRedirects.cache
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\obj\Debug\Lab04.Form1.resources
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\obj\Debug\Lab04.exe
+F:\Users\bartlomiej.malina\Desktop\.NET\Lab04\Lab04\obj\Debug\Lab04.pdb

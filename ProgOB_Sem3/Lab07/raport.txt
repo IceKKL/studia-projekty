@@ -1,0 +1,21 @@
+
+Pierwiastek sześcienny z 3.000000
+Wymagana dokładność: 0.000100000000000
+Step: 1 value: 0.75
+Step: 2 value: 1.125
+Step: 3 value: 1.3125
+Step: 4 value: 1.40625
+Step: 5 value: 1.453125
+Step: 6 value: 1.4296875
+Step: 7 value: 1.44140625
+Step: 8 value: 1.447265625
+Step: 9 value: 1.4443359375
+Step: 10 value: 1.44287109375
+Step: 11 value: 1.442138671875
+Step: 12 value: 1.4425048828125
+Step: 13 value: 1.44232177734375
+Step: 14 value: 1.442230224609375
+Step: 15 value: 1.4422760009765625
+Step: 16 value: 1.4422531127929688
+WYNIK OBLICZONY:   1.442253112792969
+WYNIK (klasa MATH): 1.442249570307408
