@@ -36,8 +36,18 @@ namespace Lab04
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int X1 = int.Parse(textBox1.Text);
-            int X2 = int.Parse(textBox2.Text);
+            int X1=0, X2=0;
+
+            try
+            {
+                X1 = int.Parse(textBox1.Text);
+                X2 = int.Parse(textBox2.Text);
+            } catch (System.FormatException)
+            {
+                MessageBox.Show("X1 lub X2 nie jest liczbą");
+                return;
+            }
+
             if (X1 > X2)
             {
                 MessageBox.Show("X2 jest mniejsze od X1");
@@ -84,7 +94,7 @@ namespace Lab04
                 }
                 if (check == 3)
                 {
-                    tempY = Math.Exp(i);
+                    tempY = Math.Sin(i)/i;
                     series.Points.AddXY(i, tempY);
                 }
                 if (tempY < minY)

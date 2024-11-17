@@ -29,3 +29,13 @@ C:\Users\serwis\Desktop\Studia\.NET\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateR
 C:\Users\serwis\Desktop\Studia\.NET\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
 C:\Users\serwis\Desktop\Studia\.NET\Lab04\Lab04\obj\Debug\Lab04.exe
 C:\Users\serwis\Desktop\Studia\.NET\Lab04\Lab04\obj\Debug\Lab04.pdb
+C:\Users\Bartłomiej\Documents\GitHub\studia-projekty\Prog.NET_Sem3\Lab04\Lab04\bin\Debug\Lab04.exe.config
+C:\Users\Bartłomiej\Documents\GitHub\studia-projekty\Prog.NET_Sem3\Lab04\Lab04\bin\Debug\Lab04.exe
+C:\Users\Bartłomiej\Documents\GitHub\studia-projekty\Prog.NET_Sem3\Lab04\Lab04\bin\Debug\Lab04.pdb
+C:\Users\Bartłomiej\Documents\GitHub\studia-projekty\Prog.NET_Sem3\Lab04\Lab04\obj\Debug\Lab04.csproj.AssemblyReference.cache
+C:\Users\Bartłomiej\Documents\GitHub\studia-projekty\Prog.NET_Sem3\Lab04\Lab04\obj\Debug\Lab04.Form1.resources
+C:\Users\Bartłomiej\Documents\GitHub\studia-projekty\Prog.NET_Sem3\Lab04\Lab04\obj\Debug\Lab04.Properties.Resources.resources
+C:\Users\Bartłomiej\Documents\GitHub\studia-projekty\Prog.NET_Sem3\Lab04\Lab04\obj\Debug\Lab04.csproj.GenerateResource.cache
+C:\Users\Bartłomiej\Documents\GitHub\studia-projekty\Prog.NET_Sem3\Lab04\Lab04\obj\Debug\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\Bartłomiej\Documents\GitHub\studia-projekty\Prog.NET_Sem3\Lab04\Lab04\obj\Debug\Lab04.exe
+C:\Users\Bartłomiej\Documents\GitHub\studia-projekty\Prog.NET_Sem3\Lab04\Lab04\obj\Debug\Lab04.pdb
