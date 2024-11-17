@@ -14,7 +14,8 @@ namespace Lab04
     public partial class Form1 : Form
     {
         ChartArea chartArea = new ChartArea();
-        Func<>
+        int check;
+        double minY, maxY, tempY;
         public Form1()
         {
             InitializeComponent();
@@ -54,7 +55,6 @@ namespace Lab04
             chart1.ChartAreas.Add(chartArea);
 
             chart1.Titles.Add(textBox3.Text);
-            chart1.Titles.Add("y = cos(x) + 0.2 * x");
 
             Series series = new Series
             {
@@ -63,42 +63,46 @@ namespace Lab04
                 ChartType = SeriesChartType.Line
 
             };
-            for(double i = X1; i <= X2; i += 0.001)
+            minY = 0; maxY = 0;
+            for (double i = X1; i <= X2; i += 0.001)
             {
-                series.Points.AddXY(i, funkcja);
+                if (check == 0)
+                {
+                    tempY = Math.Cos(i) + 0.2 * i;
+                    series.Points.AddXY(i, tempY);
+                    
+                }
+                if (check == 1)
+                {
+                    tempY = Math.Sin(i) + i * i;
+                    series.Points.AddXY(i, tempY);
+                }
+                if (check == 2)
+                {
+                    tempY = Math.Tan(i) + Math.Log(i);
+                    series.Points.AddXY(i, tempY);
+                }
+                if (check == 3)
+                {
+                    tempY = Math.Exp(i);
+                    series.Points.AddXY(i, tempY);
+                }
+                if (tempY < minY)
+                    minY = Convert.ToInt32(tempY);
+                if(tempY > maxY) 
+                    maxY = Convert.ToInt32(tempY);
+                chartArea.AxisY.Minimum = Convert.ToInt32(minY) - 1;
+                chartArea.AxisY.Maximum = Convert.ToInt32(maxY) + 1;
+
             }
             chart1.Series.Add(series);
 
         }
 
-        private void textBox1_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void chart1_Click(object sender, EventArgs e)
-        {
-
-        }
-
+        
         private void button2_Click(object sender, EventArgs e)
         {
             this.Close();
-        }
-
-        private void textBox3_TextChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void textBox4_TextChanged(object sender, EventArgs e)
-        {
-
         }
 
         private void checkBox2_CheckedChanged(object sender, EventArgs e)
@@ -106,9 +110,9 @@ namespace Lab04
             chart1.ChartAreas[0].AxisY.MajorGrid.Enabled = checkBox2.Checked;
         }
 
-        private void checkedListBox1_SelectedIndexChanged(object sender, EventArgs e)
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-
+             check = listBox1.SelectedIndex;
         }
     }
 }
