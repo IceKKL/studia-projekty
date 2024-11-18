@@ -30,9 +30,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Bart\u0142omiej\\Documents\\GitHub\\studia-projekty\\Prog.NET_Sem3\\Lab04\\Lab04\\Form1.cs",
               "RelativeDocumentMoniker": "Lab04\\Form1.cs",
-              "ToolTip": "C:\\Users\\Bart\u0142omiej\\Documents\\GitHub\\studia-projekty\\Prog.NET_Sem3\\Lab04\\Lab04\\Form1.cs*",
-              "RelativeToolTip": "Lab04\\Form1.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Bart\u0142omiej\\Documents\\GitHub\\studia-projekty\\Prog.NET_Sem3\\Lab04\\Lab04\\Form1.cs",
+              "RelativeToolTip": "Lab04\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-05T11:16:12.081Z",
               "IsPinned": true,
@@ -44,12 +44,11 @@
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Bart\u0142omiej\\Documents\\GitHub\\studia-projekty\\Prog.NET_Sem3\\Lab04\\Lab04\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Lab04\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Bart\u0142omiej\\Documents\\GitHub\\studia-projekty\\Prog.NET_Sem3\\Lab04\\Lab04\\Form1.Designer.cs*",
-              "RelativeToolTip": "Lab04\\Form1.Designer.cs*",
+              "ToolTip": "C:\\Users\\Bart\u0142omiej\\Documents\\GitHub\\studia-projekty\\Prog.NET_Sem3\\Lab04\\Lab04\\Form1.Designer.cs",
+              "RelativeToolTip": "Lab04\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T19:28:31.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-05T19:28:31.16Z"
             },
             {
               "$type": "Document",
@@ -57,11 +56,10 @@
               "Title": "Form1.cs [Projekt]",
               "DocumentMoniker": "C:\\Users\\Bart\u0142omiej\\Documents\\GitHub\\studia-projekty\\Prog.NET_Sem3\\Lab04\\Lab04\\Form1.cs",
               "RelativeDocumentMoniker": "Lab04\\Form1.cs",
-              "ToolTip": "C:\\Users\\Bart\u0142omiej\\Documents\\GitHub\\studia-projekty\\Prog.NET_Sem3\\Lab04\\Lab04\\Form1.cs [Projekt]*",
-              "RelativeToolTip": "Lab04\\Form1.cs [Projekt]*",
+              "ToolTip": "C:\\Users\\Bart\u0142omiej\\Documents\\GitHub\\studia-projekty\\Prog.NET_Sem3\\Lab04\\Lab04\\Form1.cs [Projekt]",
+              "RelativeToolTip": "Lab04\\Form1.cs [Projekt]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T11:16:12.426Z",
-              "EditorCaption": " [Projekt]"
+              "WhenOpened": "2024-11-05T11:16:12.426Z"
             }
           ]
         }
